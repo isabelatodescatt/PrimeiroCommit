@@ -1,6 +1,9 @@
 # PrimeiroCommit
 Bem Vindo ao meu Primeiro Projeto! ☕
-Projeto em construção... Conhecendo o GitHub!
+Projeto em construção... 
+
+```
+Conhecendo o GitHub!
 
 ### 📋 Comandos do GitHub!
 
