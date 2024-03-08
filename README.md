@@ -3,7 +3,7 @@ Bem Vindo ao meu Primeiro Projeto! ☕
 
 ### 📋 Comandos do GitHub!
 
-- git add:
+- **git add**:
 Move as alterações do diretório de trabalho para a área de staging;
 
 - git branch:
